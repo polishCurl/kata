@@ -1,7 +1,4 @@
-bazel-bin
-bazel-CodingChallengesWithGtestAndGbench
-bazel-out
-bazel-testlogs
+bazel-*
 .DS_Store
 .vscode
 genhtml
